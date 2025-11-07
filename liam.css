@@ -1,0 +1,60 @@
+body{
+  text-align: center;
+  background-color: white;
+  color: #333;
+  align-items: auto;
+  margin: 0px;
+}
+header{
+  background-color: #107707;
+  color: white;
+  padding: 40px;
+}
+.principal{
+  margin-top: 75px;
+}
+footer{
+  background-color: #07200d;
+  color: white;
+  padding: 60px;
+  margin-top: 40px;
+}
+.iconoFutbol{
+  width: 13%;
+  height: 13%;
+}
+button{
+  background-color: #107707;
+  color: black;
+  height: 75px;
+  width: 125px;
+  margin-top: 90px;
+  border-radius: 20px;
+  border-color: #107707;
+}
+h1{
+  margin: auto;
+  margin-left: 500px;
+  font-size: 45px;
+}
+.LogoTienda{
+  width: 300px;
+  height: 200px;
+  display: flex;
+  margin-right: auto;
+}
+.hombre{
+  float: left;
+  margin-left: 3rem;
+  height: 23rem;
+  border-radius: 20px;
+}
+.hombre2{
+  float: right;
+  margin-right: 3rem;
+}
+.hombre2 img{
+  max-height: 375px;
+  border-radius: 20px;
+
+}
